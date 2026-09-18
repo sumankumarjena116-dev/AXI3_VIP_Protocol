@@ -1,0 +1,12 @@
+sim/covhtmlreport/
+sim/work/
+sim/mem_cov*
+sim/modelsim.ini
+sim/*.log
+sim/*.vstf
+*.swp
+*.swo
+*.swn
+*.swk
+*.swl
+*.swm
